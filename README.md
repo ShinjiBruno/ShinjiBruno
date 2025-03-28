@@ -3,7 +3,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 💼 Currently working with Next.js using TypeScript on a project similar to Typebot.
+- 💼 Currently working with Next.js using TypeScript.
 - 🎓 Undergraduate student in Computer Engineering at UTFPR.
 - 👅 Languages: C++, C#, JavaScript, TypeScript.
 - 💡 Interests: Backend Development, Algorithms.
