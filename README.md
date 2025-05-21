@@ -17,9 +17,3 @@
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
-
----
-
-## 🌐 My Networks
-- 💼 [LinkedIn](https://www.linkedin.com/in/bruno-yamamoto-281228280/)
-- 💬 [Twitter](https://twitter.com/brunin_json)
