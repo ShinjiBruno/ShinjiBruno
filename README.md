@@ -21,4 +21,4 @@
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-0F0F11.svg?style=for-the-badge&logo=Angular&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinjiBruno&layout=compact)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ShinjiBruno&layout=compact)
